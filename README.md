@@ -20,6 +20,7 @@ A 4-Degree-of-Freedom (4-DoF) robotic arm control system built using an Arduino 
 | **10kΩ Potentiometer** | 4 | Rotary Analog Inputs (Wiper-style) |
 | **External Power Supply** | 1 | 5V Supply capable of handling ≥ 2A peak current |
 | **Breadboard & Jumpers** | — | For prototyping and distributing rails |
+| **Robotic Arm structure** | 1 | I particularly used this :- https://amzn.in/d/0eyU1rfa (non-sponsored), you can also consider another options also.
 
 ---
 
